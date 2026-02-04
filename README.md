@@ -21,8 +21,6 @@ The dataset contains **429 news groups**, **1,405 videos**, and **2,501 high-qua
 Each sample belongs to a **news group**, which contains:
 
 - Multiple news videos from different outlets covering the **same event**
-- Transcripts  
-- Selected key frames  
 - Multi-source reasoning questions (T1–T10)
 
 Example JSON entry:
@@ -34,5 +32,17 @@ Example JSON entry:
     "bFrJpOVkp88",
     "YkIF2Jzh_mQ",
     "t7hbNuIxZto"
-  ]
+  ],
+  "qa": [
+    {
+      "task_id": "T1",
+      "question": "...",
+      "options": {
+        "A": "...",
+        "B": "...",
+        "C": "...",
+        "D": "..."
+      },
+      "correct_answer": "A"
+    },
 }
