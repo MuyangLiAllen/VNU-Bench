@@ -8,6 +8,7 @@ The dataset contains **429 news groups**, **1,405 videos**, and **2,501 high-qua
 ---
 
 ## 📂 Dataset Structure
+The dataset can be download from: https://huggingface.co/datasets/Balibata/VNU-Bench
 
 Each sample belongs to a **news group**, which contains:
 
