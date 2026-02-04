@@ -50,7 +50,7 @@ Example JSON entry:
 
 ## 🎥 How to Access Original News Videos
 
-We do **not** redistribute raw videos. Instead, we provide **YouTube video IDs**.
+We provide **YouTube video IDs** currently.
 
 ```
 https://www.youtube.com/watch?v=VIDEO_ID
