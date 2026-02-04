@@ -51,8 +51,13 @@ Example JSON entry:
 ## 🎥 How to Access Original News Videos
 
 We do **not** redistribute raw videos. Instead, we provide **YouTube video IDs**.
+
+```
 https://www.youtube.com/watch?v=VIDEO_ID
+```
+
 **Example**
+```
 video_id = bFrJpOVkp88
 → https://www.youtube.com/watch?v=bFrJpOVkp88
-
+```
