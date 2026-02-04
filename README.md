@@ -1,7 +1,7 @@
 # 🎬 VNU-Bench: A Benchmark for Multi-Source Multimodal News Video Understanding
 
 <p align="center">
-  🤗 <a href="https://huggingface.co/datasets/Balibata/VNU-Bench"><b>Dataset</b></a> &nbsp; | &nbsp;
+  🤗 <a href=""><b>Dataset</b></a> &nbsp; | &nbsp;
   📄 <a href="https://arxiv.org/pdf/2601.03434"><b>Paper</b></a>
 </p>
 
@@ -14,7 +14,7 @@ The dataset contains **429 news groups**, **1,405 videos**, and **2,501 high-qua
 ## 📂 Dataset Structure
 
 The dataset can be downloaded from:  
-👉 **https://huggingface.co/datasets/Balibata/VNU-Bench**
+👉 ****
 
 Each sample belongs to a **news group**, which contains:
 
