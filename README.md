@@ -7,7 +7,7 @@
 
 VNU-Bench is the **first benchmark designed for cross-source, cross-video multimodal news understanding**, where models must reason over **multiple news reports of the same real-world event** instead of analyzing videos in isolation.
 
-The dataset contains **424 news groups**, **1,387 videos**, and **2,501 high-quality multiple-choice questions** spanning 10 reasoning types.
+The dataset contains **424 news groups**, **1,375 videos**, and **2,501 high-quality multiple-choice questions** spanning 10 reasoning types.
 
 ---
 
