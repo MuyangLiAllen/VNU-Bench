@@ -1,5 +1,9 @@
-# 📰 VNU-Bench  
-**A Benchmark for Multi-Source Multimodal News Video Understanding**
+# 🎬 VNU-Bench: A Benchmark for Multi-Source Multimodal News Video Understanding
+
+<p align="center">
+  🤗 <a href="https://huggingface.co/datasets/Balibata/VNU-Bench"><b>Dataset</b></a> &nbsp; | &nbsp;
+  📄 <a href="https://arxiv.org/pdf/2601.03434"><b>Paper</b></a>
+</p>
 
 VNU-Bench is the **first benchmark designed for cross-source, cross-video multimodal news understanding**, where models must reason over **multiple news reports of the same real-world event** instead of analyzing videos in isolation.
 
@@ -8,7 +12,9 @@ The dataset contains **429 news groups**, **1,405 videos**, and **2,501 high-qua
 ---
 
 ## 📂 Dataset Structure
-The dataset can be download from: https://huggingface.co/datasets/Balibata/VNU-Bench
+
+The dataset can be downloaded from:  
+👉 **https://huggingface.co/datasets/Balibata/VNU-Bench**
 
 Each sample belongs to a **news group**, which contains:
 
@@ -36,5 +42,15 @@ Example JSON entry:
         "D": "..."
       },
       "correct_answer": "A"
-    },
+    }
+  ]
 }
+
+## 🎥 How to Access Original News Videos
+
+We do **not** redistribute raw videos. Instead, we provide **YouTube video IDs**.
+https://www.youtube.com/watch?v=VIDEO_ID
+**Example**
+video_id = bFrJpOVkp88
+→ https://www.youtube.com/watch?v=bFrJpOVkp88
+
