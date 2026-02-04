@@ -46,7 +46,7 @@ Example JSON entry:
   ]
 }
 
-```json
+```
 
 ## 🎥 How to Access Original News Videos
 
