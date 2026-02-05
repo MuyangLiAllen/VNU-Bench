@@ -50,7 +50,7 @@ Example JSON entry:
 
 ## 🎥 How to Access Original News Videos
 
-We provide **YouTube video IDs** currently.
+You are able to locate the original videos in the following way. Or you can directly use videos attached in huggingface as well.
 
 ```
 https://www.youtube.com/watch?v=VIDEO_ID
